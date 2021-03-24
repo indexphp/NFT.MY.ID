@@ -21,3 +21,4 @@ NFT List:
 1. [ART](https://nft.my.id/artgen/1)
 2. [FISH](https://nft.my.id/artgen/2)
 3. [LOVE](https://nft.my.id/artgen/3)
+4. [ARK](https://nft.my.id/artgen/4)
