@@ -27,4 +27,4 @@ NFT List:
 7. [ASK](https://nft.my.id/artgen/7)
 8. [BACK](https://nft.my.id/artgen/8)
 9. [BALL](https://nft.my.id/artgen/9)
-10.[BOAT](https://nft.my.id/artgen/10)
+10. [BOAT](https://nft.my.id/artgen/10)
