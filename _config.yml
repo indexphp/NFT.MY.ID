@@ -2,29 +2,11 @@ theme: jekyll-theme-minimal
 
 ---
 layout: page
-title: ARTGEN
+title: ARTGEN NFT
 permalink: /artgen/
 ---
 
 layout: page
 title: ARTGEN
-permalink: /artgen/1
----
-
-
-layout: page
-title: ARTGEN
-permalink: /artgen/2
----
-
-
-layout: page
-title: ARTGEN
-permalink: /artgen/3
----
-
-
-layout: page
-title: ARTGEN
-permalink: /artgen/4
+permalink: /artgen/:basename
 ---
